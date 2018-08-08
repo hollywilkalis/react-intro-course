@@ -12,6 +12,5 @@ const Header = (props) =>
       <span>{props.tagline}</span>
     </h3>
   </header>
-}
 
 export default Header;
